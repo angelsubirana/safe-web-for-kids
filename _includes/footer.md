@@ -2,7 +2,8 @@
 
 Handcrafted in Barcelona by [Angel Subirana](http://www.bobgoo.com)
 &mdash;
-Copyright &copy; 2016 Angel Subirana. [Privacy policy](./privacy.html)
+Copyright &copy; 2016 Angel Subirana.<br>
+[Privacy policy](./privacy.html)
 
 <a href="https://twitter.com/safewebforkids"><span class="fa-stack fa-lg">
 <i class="fa fa-circle fa-stack-2x"></i>
