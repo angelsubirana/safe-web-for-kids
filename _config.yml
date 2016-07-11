@@ -20,8 +20,7 @@ description: "Safe Web is a web browser for iPhone and iPad devices. Don't worry
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-25289053-5 ## put YOUR key here to enable tracking! (blank to disable)
-appstore_link: "https://itunes.apple.com/app/safe-web-for-kids/id460723131?ct=web&mt=8"
-
+appstore_link: "https://itunes.apple.com/app/safe-web-for-kids/id460723131?ct=web&mt=8&at=1000lom5"
 
 ### template colors, used site-wide via css ###
 colors:
